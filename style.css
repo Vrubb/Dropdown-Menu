@@ -1,13 +1,5 @@
-.dropdown {
-    position: relative;
-    text-align: center;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
+.dropdown-button {
+    background-color: deeppink;
+    color: white;
+    border: 0;
 }
