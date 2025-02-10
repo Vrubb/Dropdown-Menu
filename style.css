@@ -1,3 +1,6 @@
+.dropdown {
+    position: relative;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
