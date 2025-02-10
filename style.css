@@ -1,5 +1,6 @@
 .dropdown {
     position: relative;
+    text-align: center;
 }
 
 .dropdown:hover .dropdown-content {
